@@ -6,3 +6,6 @@
 ## 长期免费分享币圈科学工具
 ## github地址：https://github.com/COINsciencer
 ## youtube:https://www.youtube.com/channel/UCX3J_A7EG437G8X857fBZfQ
+
+使用方法 
+https://docs.google.com/document/d/1DUDigyDie2PKrXwBT0qxFXch-Idutxrc1n3NcDoJAyQ/edit?usp=sharing
